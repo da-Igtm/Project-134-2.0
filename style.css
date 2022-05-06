@@ -1,0 +1,13 @@
+#heading{
+    margin: 0;
+    width: 100%;
+}
+body{
+    background-size: cover;
+}
+canvas{
+    margin: 12px;
+    padding: 12px;
+    border-radius: 20px;
+    box-shadow: 2px 4px 12px solid tan;
+}
